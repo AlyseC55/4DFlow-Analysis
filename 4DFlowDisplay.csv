@@ -1,4 +1,4 @@
-,patient_folder,sequence_folder,num_files,PatientMRN,SeriesDescription,Modality
+,Accession Number,Sequence Folder,Image Count,PatientMRN,Series Description,Modality
 0,100000242,31_dual_venc_4Dflow_0p8_1p6,2112,5777483,dual_venc_4Dflow_0p8_1p6,MR
 1,100000242,32_dual_venc_4Dflow_0p8_1p6,352,5777483,dual_venc_4Dflow_0p8_1p6,MR
 2,100001167,35_dual_venc_4Dflow_0p8_1p6,220,6107146,dual_venc_4Dflow_0p8_1p6,MR
