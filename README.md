@@ -1,4 +1,4 @@
-4D Flow MRI Vessel Velocity Viewer
+**4D Flow MRI Vessel Velocity Viewer**
 
 An interactive Jupyter tool for reviewing 4D flow MRI scans. Pick a patient's scans, draw a line across a vessel, and get a velocity-over-time curve for that whole vessel.
 
