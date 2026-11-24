@@ -1,0 +1,14 @@
+# Patient data and anything derived from it. Never commit these.
+*.dcm
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# Notebook housekeeping
+.ipynb_checkpoints/
+__pycache__/
+
+# Keep any local data folders out of the repo
+data/
+scans/

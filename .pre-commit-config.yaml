@@ -1,0 +1,9 @@
+# Refuses any commit that includes data files which may contain PHI.
+repos:
+  - repo: local
+    hooks:
+      - id: block-phi-files
+        name: Block data files that may contain PHI
+        entry: Data files (.dcm, .csv, .xlsx, .xls) must not be committed
+        language: fail
+        files: '\.(dcm|csv|xlsx|xls)$'
